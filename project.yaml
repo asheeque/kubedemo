@@ -11,3 +11,5 @@ spec:
     path: dev
   destination:
     server: https://kubernetes.default.svc
+    namespace: default
+
